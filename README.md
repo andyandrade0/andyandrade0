@@ -21,7 +21,6 @@ Initializing system...
 
 ✔ Developer profile detected
 ✔ Java environment loaded
-✔ Back-end modules initialized
 ✔ Security layer enabled
 
 STATUS: ONLINE
@@ -119,51 +118,11 @@ NEXT CHECKPOINT ............................... LEVEL UP
 
 ---
 
-## `> GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andyandrade0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyandrade0&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=andyandrade0&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=7D8590"/>
-
-</div>
-
----
-
 ## `> ACTIVITY`
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=andyandrade0&bg_color=0D1117&color=C9D1D9&line=00FF41&point=00FF41&area=true&area_color=003B12&hide_border=true"/>
-
-</div>
-
----
-
-## `> GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=andyandrade0&theme=matrix&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION MATRIX`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andyandrade0/andyandrade0/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
